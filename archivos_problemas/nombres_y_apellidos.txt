@@ -1,0 +1,14 @@
+Los datos son:
+
+Nombre: Yonan
+Apellido: Julca
+-----------
+Nombre: Sergio
+Apellido: Marta
+-----------
+Nombre: Matias
+Apellido: Mitra
+-----------
+Nombre: Juan
+Apellido: Pipon
+-----------
