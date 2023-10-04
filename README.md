@@ -29,5 +29,5 @@ Este repositorio alberga un curso exhaustivo sobre Python, estructurado en las s
         Ejercicios avanzados
 
 Enlace al Curso en YouTube (dalto)
-
+https://www.youtube.com/watch?v=nKPbfIU442g
 Este curso proporciona una comprensión exhaustiva de Python, desde los conceptos más básicos hasta temas avanzados. ¡Disfruta aprendiendo!
